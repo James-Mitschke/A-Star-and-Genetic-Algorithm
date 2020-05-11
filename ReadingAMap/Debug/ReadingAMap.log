@@ -1,0 +1,7 @@
+﻿  ReadingAMap.cpp
+e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap\readingamap.cpp(73): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap\readingamap.cpp(75): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap\readingamap.cpp(96): warning C4305: '=': truncation from 'int' to 'bool'
+e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap\readingamap.cpp(534): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap\readingamap.cpp(705): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ReadingAMap.vcxproj -> E:\00EDrive\Assignments\Year 2\AIP\Assignment 1\ReadingAMap\Debug\ReadingAMap.exe

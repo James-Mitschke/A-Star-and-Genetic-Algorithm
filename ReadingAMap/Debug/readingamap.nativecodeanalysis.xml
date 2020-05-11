@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap</FILEPATH>
+      <FILENAME>readingamap.cpp</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_chdir'.</DESCRIPTION>
+    <FUNCTION>initMap</FUNCTION>
+    <DECORATED>?initMap@@YAXPAUMapGrid@@@Z</DECORATED>
+    <FUNCLINE>85</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap</FILEPATH>
+      <FILENAME>readingamap.cpp</FILENAME>
+      <LINE>581</LINE>
+      <COLUMN>96</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>GAFindPath</FUNCTION>
+    <DECORATED>?GAFindPath@@YAXUMapGrid@@@Z</DECORATED>
+    <FUNCLINE>496</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\00edrive\assignments\year 2\aip\assignment 1\readingamap\readingamap</FILEPATH>
+      <FILENAME>readingamap.cpp</FILENAME>
+      <LINE>581</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>GAFindPath</FUNCTION>
+    <DECORATED>?GAFindPath@@YAXUMapGrid@@@Z</DECORATED>
+    <FUNCLINE>496</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
